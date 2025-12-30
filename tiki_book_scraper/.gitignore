@@ -1,0 +1,29 @@
+# Tiki Book Scraper - Git Ignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Database files
+*.db
+
+# Data files
+data/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
