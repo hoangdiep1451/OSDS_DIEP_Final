@@ -27,28 +27,6 @@ tiki_book_scraper/
 └── tiki_books.db        # SQLite database
 ```
 
-## 🚀 Hướng dẫn cài đặt
-
-### 1. Clone repository
-```bash
-git clone https://github.com/[username]/tiki-book-scraper.git
-cd tiki-book-scraper
-```
-
-### 2. Tạo môi trường ảo (khuyến nghị)
-```bash
-python -m venv venv
-venv\Scripts\activate  # Windows
-# hoặc
-source venv/bin/activate  # Linux/Mac
-```
-
-### 3. Cài đặt thư viện
-```bash
-pip install -r requirements.txt
-```
-
-## 📖 Hướng dẫn sử dụng
 
 ### Chạy chương trình
 ```bash
