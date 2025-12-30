@@ -124,21 +124,6 @@ LIMIT 10;
 - **Matplotlib & Seaborn** - Vẽ biểu đồ
 - **tqdm** - Progress bar
 
-## ⚠️ Lưu ý
 
-- Chương trình có delay giữa các request để tránh bị block
-- Dữ liệu chỉ sử dụng cho mục đích học tập
-- Tuân thủ robots.txt của Tiki.vn
-
-## 👤 Thông tin sinh viên
-
-- **Họ tên:** [Điền tên]
-- **MSSV:** [Điền MSSV]
-- **Lớp:** [Điền lớp]
-- **Môn học:** [Điền tên môn]
-
-## 📝 License
-
-Dự án được tạo cho mục đích học tập.
 
 ---
